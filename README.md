@@ -1,5 +1,6 @@
 ## Tinder clone 
 This app was created to showcase my react capabilities.
+<br>
 Visit the life app at: https://tinder-clone-f43da.web.app
 
 
